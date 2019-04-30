@@ -1,0 +1,25 @@
+#animal-form {
+    margin-left: 20pt;
+    margin-top: 15pt;
+    
+}
+
+#buttons-view {
+    padding: 5pt;
+    margin-left: 20pt;
+}
+
+#animal-input {
+    margin-top: 15pt;
+    margin-bottom: 10pt;
+}
+
+#add-animal {
+    background-color: aqua;
+}
+
+.animal-btn {
+    margin-right: 5pt;
+    text-align: center;
+    background-color: aqua;
+}
