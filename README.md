@@ -2,7 +2,7 @@
 
 This project uses the GIPHY API to make a dynamic web page that populates with animal gifs of your choice. 14 animals are pre-selected, but users can add additional animals by inputing the animal of their choice into the form. 
 
-Javascript is used to call the GIPHY API and jQuery is used to change the HTML of the site. Bootstrap was used to created the page buttons and form. 
+Javascript is used to make an AJAX call to the GIPHY API and jQuery is used to change the HTML of the site. Bootstrap was used to created the page buttons and form. 
 
 An array of strings was created containing the names of 14 animals. When users input a new animal, that new animal is added to the array. Javascript loops through the array and JQuery appends a new button for that animal to the page. 
 
